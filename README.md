@@ -13,3 +13,6 @@ spacewalk-report-inventory-customized
 ```
 4. The script will prompt you for the password of the user you provided and will save the results in the same folder in a file named all_inventory_report.csv.
 5. If the script does not complete properly you can use the -d option to enable debug mode.
+
+
+See this Github document for additional information - [https://github.com/RedHatSatellite/sat6Inventory/ (https://github.com/RedHatSatellite/sat6Inventory/)
