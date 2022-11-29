@@ -15,4 +15,4 @@ spacewalk-report-inventory-customized
 5. If the script does not complete properly you can use the -d option to enable debug mode.
 
 
-See this Github document for additional information - [https://github.com/RedHatSatellite/sat6Inventory/ (https://github.com/RedHatSatellite/sat6Inventory/)
+See this Github document for additional information - [https://github.com/RedHatSatellite/sat6Inventory/](https://github.com/RedHatSatellite/sat6Inventory/)
